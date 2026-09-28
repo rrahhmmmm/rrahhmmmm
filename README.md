@@ -7,14 +7,14 @@
   <LINKEDIN>  → URL LinkedIn (hapus baris kalau nggak ada)
 -->
 
-# Hi, I'm <NAMA> 👋
+# Hi, I'm Baihaqi 👋
 
 Software developer from Indonesia. Fokus di web development pakai TypeScript & React.
 
 - 🔭 Currently building: **<PROJECT>**
 - 🌱 Learning: **<LEARNING>**
 - 💬 Ask me about: TypeScript, React, Node.js
-- 📫 Reach me: [email](mailto:mediauntukindonesia@gmail.com) · [LinkedIn](<LINKEDIN>)
+- 📫 Reach me: [email](mailto:muhammadbaihaqi0990@gmail.com@gmail.com) 
 
 ### Tech Stack
 
